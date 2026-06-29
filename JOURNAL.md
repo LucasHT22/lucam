@@ -1,4 +1,4 @@
-June 29: General planning
+# June 29: General planning
 
 That's not my first attempt in making a camera, so I decided to start by creating 1 documents:
 1. [Requirements](/requirements.md) - Made with the idea to not lose focus 
