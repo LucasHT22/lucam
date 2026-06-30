@@ -1,3 +1,50 @@
+# June 30: Finish Sheets
+
+I've worked on my compute & sensor session
+
+1. compute sch
+ - connected pins of DF40 based on CM4 datasheet
+    - j1 & j2
+    - defined cm4_3v3_out and cm4_1v8_out
+    - net labels net labels
+    - i2c
+    - spi
+    - sd card
+    - uart
+    - usb
+    - no connect
+
+![](/assets/jun30.png)
+
+2. sensor sch
+ - connector fpc-22 pin added and footprint associated
+ - net labels
+ - pull ups
+ - decoupling
+
+![](/assets/jun30_0.png)
+
+3. display sch
+ - pin header
+ - followed ILI9341 datasheet for pins
+ - mosfet to control display backlight
+
+![](/assets/jun30_1.png)
+
+4. storage_ui sch
+ - sd card pins with card detect pin
+ - pull up resistors and capacitor decoupling
+ - flash qspi
+ - updates to compute sch, net labels
+ - shutter button
+ - status led: power and process
+ - debug header uart
+
+![](/assets/jun30_2.png)
+![](/assets/jun30_3.png)
+
+Time spent on this: 5 hours
+
 # June 29: Night Session
 
 I took this time after dinner to:
