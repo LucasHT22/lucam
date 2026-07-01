@@ -1,3 +1,11 @@
+# June 30: Night session with footprints
+
+Assigned footprints and imported all to PCB! now the pain of routing...
+
+![](/assets/jun30_n1.png)
+
+Time spent on this: 1 hours
+
 # June 30: Finish Sheets
 
 I've worked on my compute & sensor session
