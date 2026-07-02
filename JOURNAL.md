@@ -1,3 +1,15 @@
+July 01 & 02 (clock crossed 12am): PCB
+
+In this session I've:
+ - spent an ridicolous amount of time placing components
+ - added plan gnd in in1.cu
+ - added plan pwr in in2.cu
+ - messed with net labels
+
+![](/assets/jul01.png)
+
+Time spent on this: 3 hours
+
 # June 30: Night session with footprints
 
 Assigned footprints and imported all to PCB! now the pain of routing...
