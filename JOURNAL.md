@@ -1,4 +1,23 @@
-July 01 & 02 (clock crossed 12am): PCB
+# July 02: Routing Pain
+
+This session I've:
+ - struggled a lot with differential pairs
+ - changed net labels to global labels
+ ![](/assets/jul02.png)
+ - missing tune and complete clock length
+ - got tired of routing 
+ ![](/assets/jul02_0.png)
+ - downloaded Freerouting 
+ - exported dsn
+ ![](/assets/jul02_1.webp)
+ - freerouting didnt work so im gonna change placement
+ ![](/assets/jul02_2.png)
+
+ ig I'll take a break for today, idk what else to do
+
+Time spent on this: 5 hours
+
+# July 01 & 02 (clock crossed 12am): PCB
 
 In this session I've:
  - spent an ridicolous amount of time placing components

@@ -868,75 +868,173 @@
 		)
 		(uuid "ff9762c0-b846-4c38-87f8-67108eb837f5")
 	)
-	(label "DISP_MOSI"
-		(at 167.64 96.52 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "4212ba47-e2c8-4d5f-80a2-cc8aee0916ba")
-	)
-	(label "+3V3"
-		(at 167.64 83.82 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "44fdf8ce-2f87-47c5-9ad4-3eeb9779d0a0")
-	)
-	(label "DISP_RST"
+	(global_label "DISP_RST"
+		(shape input)
 		(at 167.64 91.44 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify right)
 		)
-		(uuid "86e641c4-a6ec-4cdb-8594-fc7449e823b9")
+		(uuid "051d477d-b691-4043-85f0-8a47694ad450")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 155.8858 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
-	(label "DISP_BL"
+	(global_label "DISP_BL"
+		(shape input)
 		(at 160.02 106.68 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify right)
 		)
-		(uuid "a9b693ba-c00e-47f3-9357-5c483ee6a0cf")
+		(uuid "40511df3-8892-426d-ab9e-403e3f23fd66")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 149.4148 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
-	(label "DISP_CS"
-		(at 167.64 88.9 180)
+	(global_label "DISP_MOSI"
+		(shape input)
+		(at 167.64 96.52 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify right)
 		)
-		(uuid "c937abb6-04d8-42de-b85f-ca3147d1cf85")
+		(uuid "64241253-10bc-4c48-877b-b87d0fc5113a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.7367 96.52 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
-	(label "DISP_DC"
+	(global_label "DISP_DC"
+		(shape input)
 		(at 167.64 93.98 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify right)
 		)
-		(uuid "f39d2ba7-6d02-4467-b03d-c58d28f36871")
+		(uuid "835050b0-8d50-4c10-95b0-ba5b8385cb84")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 156.7929 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
-	(label "DISP_CLK"
+	(global_label "DISP_CLK"
+		(shape input)
 		(at 167.64 99.06 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify right)
 		)
-		(uuid "f813a0e2-eef9-43a5-8756-5effccc4b7b3")
+		(uuid "9736104e-a7f3-47a8-80cf-e5b433841db1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 155.7648 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "DISP_CS"
+		(shape input)
+		(at 167.64 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "98570eeb-8959-495c-bb3c-3d374c2c4a1e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 156.8534 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "+3V3"
+		(shape input)
+		(at 167.64 83.82 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a514403b-adf2-4bbf-8fcc-9ee770f00cdf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 159.5748 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x08")
