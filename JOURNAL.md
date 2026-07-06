@@ -1,3 +1,13 @@
+# July 05: CAD & Placement Change
+
+Changed placement of components to make easier routing:
+![](/assets/jul05.png)
+
+I also started CAD, did almost the entire bottom of case:
+![](/assets/jul05_0.png)
+
+Time spent on this session: 2 hours
+
 # July 02: Routing Pain
 
 This session I've:
